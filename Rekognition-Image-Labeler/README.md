@@ -60,12 +60,9 @@ We’ll go through the following steps:
 ---
 
 ## Architecture Diagram
+![Screenshot](Assets/Screenshot%202025-10-02%20130124.png)
 
-![Architecture Diagram](architecture/diagram.png)
-<small>
-**Flow:** Developer machine → AWS CLI/Python → S3 (images) → Rekognition (label detection) → Console/Logs (results).  
-**Notes:** Ensure your **AWS region** and **credentials/SSO session** are valid before running.
-</small>
+
 
 ---
 
