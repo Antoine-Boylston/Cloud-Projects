@@ -60,7 +60,7 @@ We’ll go through the following steps:
 ---
 
 ## Architecture Diagram
-![Screenshot](Assets/Screenshot%202025-10-02%20130124.png)
+![Screenshot](Assets/Screenshot%202025-10-02%20134339.png)
 
 
 
@@ -77,7 +77,8 @@ We’ll go through the following steps:
 # Let’s Build!
 
 ## Create an Amazon S3 Bucket
-<!-- Add your bucket name, region, and creation steps here -->
+
+1. 
 
 
 
